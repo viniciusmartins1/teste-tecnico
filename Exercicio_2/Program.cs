@@ -6,7 +6,9 @@ namespace Exercicio_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Funcionario funcionario = new Funcionario("Vinicius", "Estagiáro");
+
+            
         }
     }
 }
