@@ -8,11 +8,18 @@ namespace Exercicio_3
         public double altura;
         public double peso;
         public int idade;
+        private string trabalho;
 
+        public Modelo()
+        {
+            trabalho = "Malhação";
+        }
         public void MostrarDados()
         {
             Console.WriteLine(this.nome);
-            Console.WriteLine();
+            Console.WriteLine(this.trabalho);
         }
+
+
     }
 }

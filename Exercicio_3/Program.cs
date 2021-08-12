@@ -6,7 +6,10 @@ namespace Exercicio_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Modelo modelo = new Modelo();
+
+            Ator ator = new Ator();
+
         }
     }
 }
