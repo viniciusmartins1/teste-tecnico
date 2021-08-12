@@ -1,0 +1,10 @@
+C:\Users\vmartins\Documents\Meus Projetos\teste-tecnico\Exercicio_1\bin\Debug\netcoreapp2.0\Exercicio_1.deps.json
+C:\Users\vmartins\Documents\Meus Projetos\teste-tecnico\Exercicio_1\bin\Debug\netcoreapp2.0\Exercicio_1.runtimeconfig.json
+C:\Users\vmartins\Documents\Meus Projetos\teste-tecnico\Exercicio_1\bin\Debug\netcoreapp2.0\Exercicio_1.runtimeconfig.dev.json
+C:\Users\vmartins\Documents\Meus Projetos\teste-tecnico\Exercicio_1\bin\Debug\netcoreapp2.0\Exercicio_1.dll
+C:\Users\vmartins\Documents\Meus Projetos\teste-tecnico\Exercicio_1\bin\Debug\netcoreapp2.0\Exercicio_1.pdb
+C:\Users\vmartins\Documents\Meus Projetos\teste-tecnico\Exercicio_1\obj\Debug\netcoreapp2.0\Exercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\vmartins\Documents\Meus Projetos\teste-tecnico\Exercicio_1\obj\Debug\netcoreapp2.0\Exercicio_1.AssemblyInfoInputs.cache
+C:\Users\vmartins\Documents\Meus Projetos\teste-tecnico\Exercicio_1\obj\Debug\netcoreapp2.0\Exercicio_1.AssemblyInfo.cs
+C:\Users\vmartins\Documents\Meus Projetos\teste-tecnico\Exercicio_1\obj\Debug\netcoreapp2.0\Exercicio_1.dll
+C:\Users\vmartins\Documents\Meus Projetos\teste-tecnico\Exercicio_1\obj\Debug\netcoreapp2.0\Exercicio_1.pdb
